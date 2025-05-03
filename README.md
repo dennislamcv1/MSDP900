@@ -10,10 +10,3 @@ You will explore non-relational data offerings, provisioning and deploying non-r
 
 This Specialization will prepare you to take the DP-900: Microsoft Azure Data Fundamentals exam. Upon completion of the Specialization, you will be offered a discount to the Microsoft Azure Data Fundamentals Certification Exam to be redeemed at Pearson Vue, Microsoft's proctor exam site. Limited discount vouchers are available on first-come-first-serve basis. Coursera and Microsoft may end the offer at any time.
 
-### Applied Learning Project
-
-Learners will engage in interactive exercises throughout this program that offers opportunities to practice and implement what they are learning. They use the Microsoft Learn Sandbox. This a free environment that allows learners to explore Microsoft Azure and get hands-on with live Microsoft Azure resources and services.
-
-For example, when you learn about provisioning Azure relational database services, you will work in a temporary Azure environment called the Sandbox. The beauty about this is that you will be working with real technology but in a controlled environment, which allows you to apply what you learn, and at your own pace.
-
-You will need a Microsoft account to sign into the Sandbox. If you don't have one, you can create one for free. The Learn Sandbox allows free, fixed-time access to a cloud subscription with no credit card required. Learners can safely explore, create, and manage resources without the fear of incurring costs or "breaking production".
