@@ -1,6 +1,6 @@
 # MSDP900
-## Microsoft Azure Data Fundamentals DP-900 Exam Prep Specialization
-### About this Specialization
+## Microsoft Azure Data Fundamentals DP-900 Exam Prep Specialization (5 course series)
+
 
 This Specialization is intended for IT professionals who want to learn the fundamentals of database concepts in a cloud environment, get basic skilling in cloud data services, and build their foundational knowledge of cloud data services within Microsoft Azure. Through five courses, you will prepare to take the DP-900 exam. 
 
